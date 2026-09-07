@@ -1,0 +1,23 @@
+# Environment variables - never upload to GitHub
+.env
+
+# Python cache files - automatically generated, don't need to track
+__pycache__/
+*.pyc
+
+# VS Code settings - personal preferences, not project files
+.vscode/
+
+# Data files - raw and cleaned data files stay local only
+*.csv
+*.xlsx
+*.xls
+.~lock.*
+
+# OS-generated junk files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders, if you create one
+venv/
+.venv/
