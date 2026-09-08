@@ -22,10 +22,12 @@ This project uses data sourced and standardized in [idaho-campaign-finance-data]
     │   ├── erd.md
     │   ├── metrics.md
     │   └── api/
-    │       ├── candidates.md
-    │       ├── committees.md
-    │       ├── contributions.md
-    │       └── loans.md
+    │       └── readme.md
+    │       └── endpoints/
+    │           ├── candidates.md
+    │           ├── committees.md
+    │           ├── contributions.md
+    │           └── loans.md
     └── scripts/
         └── pull_data.py
 
