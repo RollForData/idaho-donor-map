@@ -19,10 +19,10 @@ This project uses data sourced and standardized in [idaho-campaign-finance-data]
     idaho-donor-map/
     ├── README.md
     ├── docs/
-    │   ├── erd.md
     │   ├── metrics.md
     │   └── api/
     │       └── readme.md
+            ├── ERD_api-live-dataset_V1.png 
     │       └── endpoints/
     │           ├── candidates.md
     │           ├── committees.md
